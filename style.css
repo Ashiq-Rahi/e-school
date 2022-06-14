@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+header{
+    background-color: #F0FFF0;
+    height: 576px;
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.nav-item{
+    padding: 10px 20px;
+}
+.nav-item a{
+    color: black;
+}
+.btn{
+    color: white;
+    padding: 12px 28px;
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+}
+span{
+    color: #21B573;
+}
+h1{
+    font-weight: 700;
+}
+small{
+    color: red;
+}
+p{
+    color: gray;
+}
+.col-md-3 img{
+    width: 80px;
+    margin-bottom: 20px;
+}
+.col-md-3{
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 270px;
+    margin-left: 10px;
+    background-color: #F8FFFB;
+}
+.col-md-3:hover{
+    box-shadow: 5px 5px 10px lightgray;
+}
+h3{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.card-foot{
+    margin-top: 20px;
+}
+.card-foot img{
+    width: 18px;
+}
+.card-foot small{
+    color: gray;
+}
+.card{
+    padding: 10px 30px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.description img{
+    width: 100px;
+}
+.description p{
+    width: 560px;
+}
+.col-md-5{
+    width: 364px;
+}
+.col-md-5 p{
+    color: white;
+}
+.bottom{
+    background-color: #282531;
+}
+ul li{
+    list-style: none;
+    color: white;
+    font-weight: 300;
+}
+h6{
+    color: white;
+    text-align: center;
+}
+.course, .terms, .useful-links{
+    width: 130px;
+    padding: 10px 20px;
+}
+.footer{
+    padding: 20px 50px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
